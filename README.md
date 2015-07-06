@@ -1,0 +1,3 @@
+# Iptables rules #
+
+This is a configuration that I made in a specific project...
